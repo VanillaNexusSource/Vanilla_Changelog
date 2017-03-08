@@ -24,3 +24,14 @@
 ###Ascent 1.03###
 - Remove Home
 - Add notification light support back
+
+###Ascent 1.04###
+- Add disable switch for battery related leds
+- Update build
+
+###Ascent 1.05###
+- Marchify vanilla
+- Replace masq. with ThemeInterphaser
+- Grab latest commits from substratum
+- Provide real light settings
+
