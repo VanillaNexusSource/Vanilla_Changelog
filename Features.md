@@ -3,11 +3,13 @@
 ## Vanilla is made to be as stock as possible adding in OMS for people who don't want all the bells and whistels of a major custom rom ##
 - Battery light
 - Built in Flash kernel
+- Built in GBoard
+- Built in PixelLauncher
 - Debloated AOSP
 - f2fs support
+- Google Assistant
 - Notification light
 - OMS
-- Pixel Launcher built in
 - Rootless substratum
 - Stock navbar editor
 - More to come!

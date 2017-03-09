@@ -46,3 +46,5 @@
 - Make install script Sexy
 - Begin work on supporting light preferences
 - Create Vanilla Info section in device info
+- Add prebuilt GBoard
+- Add Google Assistant
