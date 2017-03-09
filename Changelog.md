@@ -1,6 +1,8 @@
 # VanillaNexus Changelog#
 <center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
 
+##Note: Just because it shows up here does not mean it will be a public build!!!
+
 ###Ascent 1.0###
 - Initial build
 - Add Codenames and Buildnumbers
@@ -33,5 +35,14 @@
 - Marchify vanilla
 - Replace masq. with ThemeInterphaser
 - Grab latest commits from substratum
-- Provide real light settings
 
+###Ascent 1.06###
+- Prepare first public build
+- Overhaul versioning system
+- Build Flash kernel
+- Support f2fs
+- Make build sexy
+- Make build less spammy
+- Make install script Sexy
+- Begin work on supporting light preferences
+- Create Vanilla Info section in device info
