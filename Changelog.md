@@ -2,7 +2,18 @@
 <center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
 
 ##Note 1: Just because it shows up here does not mean it will be a public build!!!
-##Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
+Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad##
+
+###Ascent 1.08###
+- WORK IN PROGRESS NOT PUBLIC
+- Update flash kernel
+- Add huawei blobs to fix the following things:
+- Speech recognition
+- VoLTE
+
+###Known Bugs###
+- Android Pay
+- Gapps issue for some users
 
 ###Ascent 1.07###
 - Add changelog to vanila info
