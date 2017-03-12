@@ -1,10 +1,28 @@
 # VanillaNexus Changelog#
 <center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
 
-##Note 1: Just because it shows up here does not mean it will be a public build!!!
-Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
+###Note 1: Just because it shows up here does not mean it will be a public build!!!
+###Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
+###Note 3: Versions: Build name changes everymonth X.YY X changes every month YY changes every build
 
-###Ascent 1.08 Testing###
+###Ascent 1.09 *Testing*###
+- Add version to install script
+
+###Planned for 1.09###
+- Debloat huawei garbage
+- *Insert secret feature 1 here*
+- *Insert secret feature 2 here*
+- *Insert secret feature 3 here*
+- *Insert secret feature 4 here*
+- Hide these features in System UI Tuner
+
+###Known Bugs###
+- Gapps issue for some users
+- Android Pay
+- Gapps fail to install for some users
+- TWRP gets wiped for some users
+
+###Ascent 1.08 Private###
 - Update flash kernel
 - Make Build.TYPE and Build.FINGERPRINT consistent for apps
 - Add huawei blobs to fix the following things:
@@ -12,11 +30,9 @@ Note 2: The Pixel version has round icons and the pixel theme. It does not inclu
 - VoLTE
 - Google conectivity services
 
-###Known Bugs###
-- Gapps issue for some users
-- Android Pay
-- Gapps fail to install for some users
-- TWRP  gets wiped for some users
+###Planned for 1.08###
+- Fix Gapps issue
+- Fix TWRP issue
 
 ###Ascent 1.07 *CURRENT* Public###
 - Add changelog to vanila info
