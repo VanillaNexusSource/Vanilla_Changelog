@@ -7,6 +7,7 @@
 
 ###Ascent 1.09 *Testing*###
 - Add version to install script
+- Add Backuptool
 
 ###Planned for 1.09###
 - Debloat huawei garbage
@@ -17,22 +18,18 @@
 - Hide these features in System UI Tuner
 
 ###Known Bugs###
-- Gapps issue for some users
 - Android Pay
-- Gapps fail to install for some users
-- TWRP gets wiped for some users
 
 ###Ascent 1.08 Private###
 - Update flash kernel
 - Make Build.TYPE and Build.FINGERPRINT consistent for apps
+- Fix Gapps issue
+- Fix TWRP issue
 - Add huawei blobs to fix the following things:
 - Speech recognition
 - VoLTE
 - Google conectivity services
-
-###Planned for 1.08###
-- Fix Gapps issue
-- Fix TWRP issue
+- Google Fi
 
 ###Ascent 1.07 *CURRENT* Public###
 - Add changelog to vanila info
