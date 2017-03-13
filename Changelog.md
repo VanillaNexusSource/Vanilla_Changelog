@@ -3,19 +3,21 @@
 
 ###Note 1: Just because it shows up here does not mean it will be a public build!!!
 ###Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
-###Note 3: Versions: Build name changes everymonth X.YY X changes every month YY changes every build
+###Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ###Ascent 1.09 *Testing*###
 - Add version to install script
 - Add Backuptool
+- Debloat huawei garbage
+- Pick latest OMS commits
+- Update Flash
+- Hide secret features 1-4 in systemui tuner
+- Dynamic navbar toggle *breaks build. removed till further notice*
+- Custom carrier settings *testing* 
 
 ###Planned for 1.09###
-- Debloat huawei garbage
-- *Insert secret feature 1 here*
-- *Insert secret feature 2 here*
 - *Insert secret feature 3 here*
 - *Insert secret feature 4 here*
-- Hide these features in System UI Tuner
 
 ###Known Bugs###
 - Android Pay
