@@ -5,24 +5,27 @@
 ###Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
 ###Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
-###Ascent 1.09 *Testing*###
+###Ascent 1.09 *Building* **Public**###
 - Add version to install script
 - Add Backuptool
 - Debloat huawei garbage
 - Pick latest OMS commits
 - Update Flash
-- Hide secret features 1-4 in systemui tuner
-- Dynamic navbar toggle *breaks build. removed till further notice*
-- Custom carrier settings *testing* 
-
-###Planned for 1.09###
-- *Insert secret feature 3 here*
-- *Insert secret feature 4 here*
+- Begin to implement a base for features in system UI Tuner.
 
 ###Known Bugs###
 - Android Pay
 
-###Ascent 1.08 Private###
+###Planned for 1.10-1.12###
+- Dynamic navbar toggle *breaks build. removed till further notice*
+- Custom carrier settings *broken. testing* 
+- Expanded desktop *NYI*
+- Better clear all option for switcher *NYI*
+- DT2W *NYI*
+- Disable nav bar *NYI*
+- Fix Android pay
+
+###Ascent 1.08 **Private**###
 - Update flash kernel
 - Make Build.TYPE and Build.FINGERPRINT consistent for apps
 - Fix Gapps issue
@@ -33,7 +36,7 @@
 - Google conectivity services
 - Google Fi
 
-###Ascent 1.07 *CURRENT* Public###
+###Ascent 1.07 *CURRENT* **Public**###
 - Add changelog to vanila info
 - Add telegram link to vanilla info
 - Fix Nathan Chancellor's name
@@ -47,7 +50,7 @@
 - Update Flash kernel
 - Move to Android File Host
 
-###Ascent 1.06 Public###
+###Ascent 1.06 **Public**###
 - Prepare first public build
 - Overhaul versioning system
 - Build Flash kernel
@@ -60,32 +63,32 @@
 - Add prebuilt GBoard
 - Add Google Assistant
 
-###Ascent 1.05 Prerelease###
+###Ascent 1.05 **Prerelease**###
 - Marchify vanilla
 - Replace masq. with ThemeInterphaser
 - Grab latest commits from substratum
 
-###Ascent 1.04 Prerelease###
+###Ascent 1.04 **Prerelease**###
 - Add disable switch for battery related leds
 - Update build
 
-###Ascent 1.03 Prerelease###
+###Ascent 1.03 **Prerelease**###
 - Remove Home
 - Add notification light support back
 
-###Ascent 1.02 Prerelease###
+###Ascent 1.02 **Prerelease**###
 - Make zips look more pretty
 - Make versioning more clean/remove the vanilla spam
 - Remove substratum from prebuilts
 - CP new commits from substratum git
 - Add PixelLauncher to prebuilts
 
-###Ascent 1.01 Prerelease###
+###Ascent 1.01 **Prerelease**###
 - More debloat
 - Add substratum to prebuilts
 - Fixed a bug in the about device screen
 
-###Ascent 1.0 *INITIAL*###
+###Ascent 1.0 ***INITIAL***###
 - Initial build
 - Add Codenames and Buildnumbers
 - Add OMS
