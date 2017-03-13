@@ -5,16 +5,12 @@
 ###Note 2: The Pixel version has round icons and the pixel theme. It does not include the navbar. Download a substratum theme if you want it so bad
 ###Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
-###Ascent 1.09 *Building* **Public**###
-- Add version to install script
-- Add Backuptool
-- Debloat huawei garbage
-- Pick latest OMS commits
-- Update Flash
-- Begin to implement a base for features in system UI Tuner.
-
 ###Known Bugs###
 - Android Pay
+
+###Ascent 1.10 *Testing* **SOON**###
+- RIP SystemUI Tuner. You will NOT be missed
+- Hello Vanilla Tweaks
 
 ###Planned for 1.10-1.12###
 - Dynamic navbar toggle *breaks build. removed till further notice*
@@ -24,6 +20,13 @@
 - DT2W *NYI*
 - Disable nav bar *NYI*
 - Fix Android pay
+
+###Ascent 1.09 *Building* **Public**###
+- Add version to install script
+- Add Backuptool
+- Debloat huawei garbage
+- Pick latest OMS commits
+- Update Flash
 
 ###Ascent 1.08 **Private**###
 - Update flash kernel
