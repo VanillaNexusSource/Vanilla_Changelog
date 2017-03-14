@@ -7,6 +7,7 @@
 
 ###Known Bugs###
 - Android Pay
+- Battery light
 
 ###Ascent 1.10 *Testing* **SOON**###
 - RIP SystemUI Tuner. You will NOT be missed
@@ -21,7 +22,7 @@
 - Disable nav bar *NYI*
 - Fix Android pay
 
-###Ascent 1.09 *Building* **Public**###
+###Ascent 1.09 **Public**###
 - Add version to install script
 - Add Backuptool
 - Debloat huawei garbage
