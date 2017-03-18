@@ -1,4 +1,4 @@
-# VanillaNexus Changelog
+# Vanilla Changelog
 <center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
 
 ### Note 1: Just because it shows up here does not mean it will be a public build!!!
@@ -7,8 +7,20 @@
 
 ### Known Bugs
 - Sprint
+- Navigation Bar dimensions causes FC
 
-### Ascent 1.10 *Testing* **SOON**
+### Ascent 1.11 *Testing* *SOON*
+- Publicly known as Vanilla; VanillaNexus is just our source name
+- Potentially fix sprint
+
+### Planned for 1.11-1.13 
+- *Priorty sorted*
+- Fix sprint
+- Expanded desktop *NYI*
+- Better clear all option for switcher *NYI*
+- Dynamic navbar toggle *NYI*
+
+### Ascent 1.10 *CURRENT* **Public**
 - RIP SystemUI Tuner. You will NOT be missed
 - Hello Vanilla Tweaks
 - Pixel animation toggle
@@ -23,14 +35,7 @@
 - Update Flash
 - Pick new commits from substratum
 
-### Planned for 1.11-1.13 
-- *Priorty sorted*
-- Fix sprint
-- Expanded desktop *NYI*
-- Better clear all option for switcher *NYI*
-- Dynamic navbar toggle *NYI*
-
-### Ascent 1.09 *CURRENT* **Public**
+### Ascent 1.09 **Public**
 - Add version to install script
 - Add Backuptool
 - Debloat huawei garbage
