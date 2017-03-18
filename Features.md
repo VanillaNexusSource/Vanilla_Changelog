@@ -1,5 +1,6 @@
-<center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
 # Vanilla Features
+<center><img src="http://i.imgur.com/sYAI6vw.png" height="100%" width="100%;"/></center>
+
 ## Vanilla is made to be as stock as possible adding in OMS for people who don't want all the bells and whistels of a major custom rom
 - Backuptool
 - Battery light
