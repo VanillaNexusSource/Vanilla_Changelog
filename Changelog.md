@@ -7,11 +7,12 @@
 
 ### Known Bugs
 - Sprint
-- Navigation Bar dimensions causes FC
 
 ### Ascent 1.11 *Testing* *SOON*
 - Publicly known as Vanilla; VanillaNexus is just our source name
 - Potentially fix sprint
+- Fix navbar dimensions
+- Deodex time!
 
 ### Planned for 1.11-1.13 
 - *Priorty sorted*
