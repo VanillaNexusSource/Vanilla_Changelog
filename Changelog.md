@@ -6,17 +6,18 @@
 ### Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ### Known Bugs
-- Sprint
+- None as of 1.11
 
 ### Ascent 1.11 *Testing* *SOON*
 - Publicly known as Vanilla; VanillaNexus is just our source name
-- Potentially fix sprint
+- Fix Sprint/Fi
 - Fix navbar dimensions
 - Deodex time!
+- Add grid size options for pattern lock
+- Support Shamu -Nathan Chancellor
 
 ### Planned for 1.11-1.13 
 - *Priorty sorted*
-- Fix sprint
 - Expanded desktop *NYI*
 - Better clear all option for switcher *NYI*
 - Dynamic navbar toggle *NYI*
