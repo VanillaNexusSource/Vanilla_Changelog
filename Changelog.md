@@ -13,13 +13,14 @@
 - Fix Sprint/Fi
 - Fix navbar dimensions
 - Deodex time!
-- Add grid size options for pattern lock
+- Add grid size options for pattern loc
+- Add Advanced Reboot
+- Add Expanded Desktop
+- Add option for better recent kill all
 - Support Shamu -Nathan Chancellor
 
-### Planned for 1.11-1.13 
+### Planned for 1.12-1.15 
 - *Priorty sorted*
-- Expanded desktop *NYI*
-- Better clear all option for switcher *NYI*
 - Dynamic navbar toggle *NYI*
 
 ### Ascent 1.10 *CURRENT* **Public**
