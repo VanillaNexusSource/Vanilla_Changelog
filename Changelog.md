@@ -8,7 +8,7 @@
 ### Known Bugs
 - None as of 1.11
 
-### Ascent 1.11 *Testing* *SOON*
+### Ascent 1.11 *CURRENT* *Public*
 - Publicly known as Vanilla; VanillaNexus is just our source name
 - Fix Sprint/Fi
 - Fix navbar dimensions
@@ -21,9 +21,11 @@
 
 ### Planned for 1.12-1.15 
 - *Priorty sorted*
+- OmniJAWS
 - Dynamic navbar toggle *NYI*
 
-### Ascent 1.10 *CURRENT* **Public**
+
+### Ascent 1.10 **Public**
 - RIP SystemUI Tuner. You will NOT be missed
 - Hello Vanilla Tweaks
 - Pixel animation toggle
