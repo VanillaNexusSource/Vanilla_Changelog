@@ -4,7 +4,7 @@
 ## Vanilla is made to be as stock as possible adding in OMS for people who don't want all the bells and whistels of a major custom rom
 
 ### Supported devices as of 1.11
-- Angler
+- Angler (on hiatus due to RMA)
 - Shamu
 
 ### Features
@@ -13,9 +13,11 @@
 - Battery light 1.10+
 - Built in Flash kernel 1.06+
 - Built in GBoard 1.06+
-- Built in PixelLauncher 1.06+
-- Custom carrier settings 1.10+
+- Built in Android O PixelLauncher 1.12+
+- Custom carrier tweaks 1.10+
 - Custom navbar dimensions 1.11+
+- Custom QS Tweaks 1.12+
+- Custom Wallpaper 1.12+
 - Deodexed 1.11+
 - Expanded Desktop 1.11+
 - Debloated AOSP 1.0+
@@ -23,6 +25,7 @@
 - Google Assistant 1.06+
 - Google Fi 1.11+
 - Notification light  1.03+
+- OmniJaws 1.12+
 - OMS 1.0+
 - Passes safetynet 1.10+
 - Pattern Lock grid size options 1.11+
