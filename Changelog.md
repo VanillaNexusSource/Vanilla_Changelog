@@ -6,9 +6,12 @@
 ### Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ### Known Bugs
-- None as of 1.11
+- None as of 1.12
 
-### Ascent 1.12 *Building* *Public*
+### Ascent 1.13 *eta: eventually*
+- stop using test keys in favor of release keys (go play some mario run)
+
+### Ascent 1.12 *CURRENT* *Public*
 - Disable Verify Apps to fix tibu
 - Disable being able to click on the vanilla header in about
 - Move "smallest width" to display settings and rename it
@@ -21,10 +24,6 @@
 - Update prebuilt GoogleWallpapers
 - Preempt the crowd of people begging for the O pixel launcher by including it
 - Pause progress on Angler unless serious bugs appear 
-
-### Planned for 1.13-1.15 
-- *Priorty sorted*
-- Dynamic navbar toggle *NYI*
 
 ### Ascent 1.11 *Public*
 - Publicly known as Vanilla; VanillaNexus is just our source name
