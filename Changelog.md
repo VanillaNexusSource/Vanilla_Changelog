@@ -8,10 +8,6 @@
 ### Known Bugs
 - None as of 1.12
 
-### Bean 2.0
-- Update version name and number
-- Reorganize version
-
 ### Ascent 1.13 *Private*
 - stop using test keys in favor of release keys (go play some mario run)
 
