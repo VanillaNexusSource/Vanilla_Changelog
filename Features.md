@@ -3,8 +3,8 @@
 
 ## Vanilla is made to be as stock as possible adding in OMS for people who don't want all the bells and whistels of a major custom rom
 
-### Supported devices as of 1.11
-- Angler (on hiatus due to RMA)
+### Supported devices as of 2.0
+- Angler
 - Shamu
 
 ### Features
@@ -24,6 +24,8 @@
 - f2fs support 1.06+
 - Google Assistant 1.06+
 - Google Fi 1.11+
+- Miracast 2.0+
+- MusicFX 2.0+
 - Notification light  1.03+
 - OmniJaws 1.12+
 - OMS 1.0+
