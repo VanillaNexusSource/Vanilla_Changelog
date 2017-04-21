@@ -8,7 +8,7 @@
 ### Known Bugs
 - None reported as of 2.0
 
-### Bean 2.01 *ASAP*
+### Bean 2.01 *CURRENT* *ANGLER ONLY*
 - small release but important.
 - If you are not a print/fi user and do not care about okay google or google connectivity services its not as important
 - Removes a small error in the vendor which caused the build to not include any of the following packages
