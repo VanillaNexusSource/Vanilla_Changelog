@@ -6,9 +6,19 @@
 ### Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ### Known Bugs
-- None reported as of 2.0
+- None reported as of 2.01
 
-### Bean 2.01 *CURRENT* *ANGLER ONLY*
+### Bean 2.02 *CURRENT*  *4/25/17*
+- Reunite angler and shamu
+- Create a pixel version of MusicFX
+- String changes and code cleanup
+- Show up as an offically supported ROM in substratum
+- Update our substratum commits
+- Update angler repos
+- Uppdate framework repos
+- Start of the end for pirates. (we have more planned but for now we are just using omnis pirate commit wirth modifed stuff
+
+### Bean 2.01 *ANGLER ONLY* *4/21/17*
 - small release but important.
 - If you are not a print/fi user and do not care about okay google or google connectivity services its not as important
 - Removes a small error in the vendor which caused the build to not include any of the following packages
@@ -17,7 +27,7 @@
 - Google Connectivity services
 - Okay google voice recognition
 
-### Bean 2.0 *CURRENT 4/20/17*
+### Bean 2.0 * 4/20/17*
 - Rename build name
 - Renumber build number
 - Reorganize version
