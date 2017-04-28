@@ -8,7 +8,18 @@
 ### Known Bugs
 - None reported as of 2.01
 
-### Bean 2.02 *CURRENT*  *4/25/17*
+### Bean 2.03 *CURRENT* *4/28/17* *Final Bean/April build*
+- Actually include the new pixel MusicFX 
+- Add an equalizer setting panel to settings
+- Mess with more pirates 
+- Give substratum's description an update to match the rest 
+- Update to Ti 62 (substratum backend) 
+- Ticker tweaks
+- Double tap to wake on angler (currently not disableable)
+- Fix Vanilla Info FC on Shamu
+- Finalize april builds unless some big bug comes up
+
+### Bean 2.02  *4/25/17*
 - Reunite angler and shamu
 - Create a pixel version of MusicFX
 - String changes and code cleanup
