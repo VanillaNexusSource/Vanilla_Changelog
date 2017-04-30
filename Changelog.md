@@ -8,6 +8,17 @@
 ### Known Bugs
 - None reported as of 2.01
 
+### Cheesecake 3.0 *5/xx/17*
+- MAYDAY MAYDAY 7.1.2 r_8
+- Center the eq in musicfx
+- Use a real icon for Vanilla tweaks
+- Remove DT2W from angler (if you want it root and get a kernel auditor to enable it)
+- Add screen recording
+- Add screenshot mode
+- QS Headers
+- Update OmniJaws
+- Update MusicFX
+
 ### Bean 2.03 *CURRENT* *4/28/17* *Final Bean/April build*
 - Actually include the new pixel MusicFX 
 - Add an equalizer setting panel to settings
