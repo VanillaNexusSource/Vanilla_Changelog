@@ -6,9 +6,13 @@
 ### Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ### Known Bugs
-- None reported as of 2.01
+- Vendor warning even if correct vendor on angler.
+- String bug in reboot menu
+- String bug on power off
+- F2FS data partition not sticking
+- Screenshot tile not shown
 
-### Cheesecake 3.0 *5/xx/17*
+### Cheesecake 3.0 *5//17*
 - MAYDAY MAYDAY 7.1.2 r_8
 - Center the eq in musicfx
 - Use a real icon for Vanilla tweaks
