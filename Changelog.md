@@ -6,21 +6,19 @@
 ### Note 3: Versions: Build name changes every month X.YY X changes every month YY changes every build
 
 ### Known Bugs
-- Vendor warning even if correct vendor on angler. 3.0 only -fixed 3.01
-- String bug in reboot menu 3.0 only -fixed 3.01?
-- String bug on power off -fixed 3.01?
-- Screenshot tile not shown - fixed 3.01?
 - More settings in omnijaws does nothing - not fixed yet
 - Headers is only partially working. For now some features will be hidden -no plans to fix atm
 
-### Chesecake 3.01 *5/xx/17**
+### Chesecake 3.01 *5/19/17* ***CURRENT***
 - Fix angler vendor warning 
 - Potentially fix the screenshot tile
 - Potentially fix the power menu bug.
 - Clean up our fwb
 - Hide header browser
-- Clean up Settinsg repo
+- Clean up Settings repo
 - Update MusicFX Layout
+- Update Pixel launcher from Android O DP2
+- Include VanillaNav a substratum theme with pixel navbar. 
 
 ### Cheesecake 3.0 *5/07/17*
 - MAYDAY MAYDAY 7.1.2 r_8
@@ -31,11 +29,16 @@
 - Add screenshot mode
 - QS Headers
 - Update OmniJaws
-- Update MusicFX layout
-- Update Pixel launcher from Android O DP2
-- Include VanillaNav a substratum theme with pixel navbar. 
 
-### Bean 2.03 *CURRENT* *4/28/17* *Final Bean/April build*
+### Known Bugs
+- Vendor warning even if correct vendor on angler. 
+- String bug in reboot menu
+- String bug on power off 
+- Screenshot tile not shown
+- More settings in omnijaws does nothing 
+- Headers is only partially working. For now some features will be hidden
+
+### Bean 2.03 *4/28/17* *Final Bean/April build*
 - Actually include the new pixel MusicFX 
 - Add an equalizer setting panel to settings
 - Mess with more pirates 
