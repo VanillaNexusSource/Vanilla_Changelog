@@ -9,7 +9,20 @@
 - More settings in omnijaws does nothing - not fixed yet
 - Headers is only partially working. For now some features will be hidden -no plans to fix atm
 
-### Chesecake 3.01 *5/19/17* ***CURRENT***
+### PRESS RELEASE 4.0 *6/03/17* ***CURRENT***
+*Actual features*
+
+- MusicFX has totally been redesigned
+- back button to kill has been added finally
+
+*Troll "features"*
+
+- Screw stock build for angler this update is for the PRESS
+- Screw substratum WE USE THE REVOLUTIONARY COLOR ENGINE BECAUSE WE THE BEST YO
+- Tease PIE after clicking on 7.1.2 a few times (this looks like crap js... the vector got screwed up)
+- Be offically better than x y and z rom just because we are the best
+
+### Chesecake 3.01 *5/19/17* 
 - Fix angler vendor warning 
 - Potentially fix the screenshot tile
 - Potentially fix the power menu bug.
