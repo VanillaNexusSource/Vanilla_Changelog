@@ -9,7 +9,12 @@
 - More settings in omnijaws does nothing - not fixed yet
 - Headers is only partially working. For now some features will be hidden -no plans to fix atm
 
-### PRESS RELEASE 4.0 *6/03/17* ***CURRENT***
+### Deviant 4.1 *6/0*/17* ***CURRENT***
+- Revert troll "features"
+- junify Vanilla r14
+- New Bootanimation (HIGHLY WIP)
+
+### PRESS RELEASE 4.0 *6/03/17* 
 *Actual features*
 
 - MusicFX has totally been redesigned
