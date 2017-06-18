@@ -9,8 +9,11 @@
 - More settings in omnijaws does nothing - not fixed yet
 - Headers is only partially working. For now some features will be hidden -no plans to fix atm
 
+### Deviant 4.3
+- Fix Ex Kernel Compatability (angler)
+- Fix Wifi calling/hotspot in stock kernel (angler)
+
 ### Deviant 4.2 
-- 4K support in youtube
 - Build in android O emojis
 
 ### Deviant 4.1 *6/0*/17* ***CURRENT***
