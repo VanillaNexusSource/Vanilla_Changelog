@@ -9,6 +9,12 @@
 - More settings in omnijaws does nothing - not fixed yet
 - Headers is only partially working. For now some features will be hidden -no plans to fix atm
 
+### Extract 5.0 *7/6/2017* ***CURRENT***
+- Update to July patch
+- Fix MusicFX icon for non pixel users
+- Remove skye build (does not matter unless you build yourself)
+- Add an option for builders to make odex builds (faster boot times at sacrafice of sprint not working anymore) 
+
 ### Deviant 4.3
 - Fix Ex Kernel Compatability (angler)
 - Fix Wifi calling/hotspot in stock kernel (angler)
@@ -16,7 +22,7 @@
 ### Deviant 4.2 
 - Build in android O emojis
 
-### Deviant 4.1 *6/0*/17* ***CURRENT***
+### Deviant 4.1 *6/0/17*
 - Revert troll "features"
 - junify Vanilla r14
 - New Bootanimation (HIGHLY WIP)
